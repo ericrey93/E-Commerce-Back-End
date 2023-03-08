@@ -5,8 +5,8 @@ To be able to compete with other online retail companies, we have created our ow
 
 ## Demo
 
-[Seeding database and starting app](https://drive.google.com/file/d/1cGIAQyBKLCV2QzeD08nfjj0eqPmYMvj3/view)
-[Running all routes on Insomnia](https://drive.google.com/file/d/1u4QY5NoNP3kFVJJfwd5oED3kO5nm9fg2/view)
+ - [Seeding database and starting app](https://drive.google.com/file/d/1cGIAQyBKLCV2QzeD08nfjj0eqPmYMvj3/view)
+ - [Running all routes on Insomnia](https://drive.google.com/file/d/1u4QY5NoNP3kFVJJfwd5oED3kO5nm9fg2/view)
 
 ## Installation
  - clone this repo onto your local computer
